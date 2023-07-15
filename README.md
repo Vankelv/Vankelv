@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Kelvin Klutse 👋
 
-<!--
-**Vankelv/Vankelv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### My Stacks are:
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
