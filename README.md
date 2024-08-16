@@ -19,6 +19,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 📫 How to reach me: [vankelvin603@gmail.com](mailto:vankelvin603@gmail.com);
- - 🔗 My website: [https://van.nextlinegh.com/](https://van.nextlinegh.com/)
+ - 🔗 My website: [https://van.vinetrix.com/](https://van.vinetrix.com/)
 
 
