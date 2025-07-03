@@ -1,6 +1,6 @@
-### Hi there! I'm Kelvin Klutse 👋
+### Hi there! I'm Kelvin Vidzah 👋
 
-### Hello, I'm Kelvin Samuel Klutse, a passionate frontend web developer specializing in HTML, CSS, Bootstrap, JavaScript and React.js. I have a strong foundation in these technologies and enjoy creating visually stunning and user-friendly web interfaces.
+### Hello, I'm Kelvin Samuel Vidzah, a passionate frontend web developer specializing in HTML, CSS, Bootstrap, JavaScript and React.js. I have a strong foundation in these technologies and enjoy creating visually stunning and user-friendly web interfaces.
 
 
 
